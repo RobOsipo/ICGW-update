@@ -8,7 +8,7 @@ export const handguardsPage = {
             "And",
             "Accessories"
         ],
-        imagePath: "/images/handguards-hero-image.jpg",
+        imagePath: "/images/handguards/hero-image.jpg",
     },
 
     // Text Content Section

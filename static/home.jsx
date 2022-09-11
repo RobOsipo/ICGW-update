@@ -1,4 +1,3 @@
-//! Home page
 
 export const homePage = {
     // Hero Image Section
@@ -10,7 +9,7 @@ export const homePage = {
             "Lightweight hight strength carbon fiber handguards",
         ],
         imageTextLarge: "Proud to say 100% made in the usa",
-        imagePath: "/images/home-hero-image.jpg",
+        imagePath: "/images/home/hero-image.jpg",
         imageAlt: "Isler Custom Gun Works custom assembly on the shooting range",
     },
     // Text Content Section
@@ -28,13 +27,6 @@ export const homePage = {
     // Image Carousel Section
     imageCarouselSection: {
 
-    },
-    // Footer Section
-    footerSection: {
-        mainText: "For custom quotes and assemblies please contact us below",
-        contactText: "Contact us",
-        contactLink: "/contact",
-        copyright: `© ${new Date().getFullYear()} Isler Custom Gun Works`,
     },
 
 }

@@ -3,7 +3,7 @@ export const aboutPage = {
   heroImageSection: {
     companyName: "Isler Custom Gun Works",
     imageText: "About Us",
-    imagePath: "/images/about-hero-image.jpg",
+    imagePath: "/images/about/hero-image.jpg",
   },
   // Text Content Section
   textContentSection: {
